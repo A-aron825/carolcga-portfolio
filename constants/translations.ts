@@ -7,92 +7,92 @@ export const translations = {
       about: 'About',
       testimonials: 'Testimonials',
       contact: 'Contact',
-      inquire: 'Inquire Now',
-      corp: 'Professional Corp.',
+      inquire: 'Book a Consultation',
+      corp: 'Chartered Professional Accountant',
     },
     hero: {
-      onboarding: 'Now Onboarding Clients • 2024/25',
-      title1: 'Financial',
-      title2: 'excellence,',
-      title3: 'defined by precision.',
-      subtitle: 'Sophisticated tax strategies and accounting for entrepreneurs who value technical mastery and personal service.',
-      start: 'Start Today',
-      services: 'Services',
-      checks: ['CPA Verified', 'Tax Specialists', 'Audit Ready', 'Boutique Service']
+      onboarding: 'Serving BC Individuals & Businesses',
+      title1: 'Personalized CPA',
+      title2: 'Service for You,',
+      title3: 'Your Family & Businesses.',
+      subtitle: 'Accounting & Tax Solutions for Individuals and Businesses in BC',
+      start: 'Book a Consultation',
+      services: 'Contact Us',
+      checks: ['CPA Certified', 'BC Based', 'Tax Specialists', 'Personal Service']
     },
     services: {
-      tag: 'Capabilities',
-      title: 'Financial Mastery',
-      subtitle: 'A full-spectrum approach to wealth preservation and business scalability.',
+      tag: 'Our Services',
+      title: 'How We Can Help',
+      subtitle: 'Comprehensive accounting, tax, and advisory services tailored for individuals and businesses in BC.',
       items: [
         {
-          title: 'Tax Planning',
-          description: 'Sophisticated strategies to minimize your tax burden while ensuring total compliance.',
+          title: 'Individual Tax',
+          description: 'Personal tax returns, tax planning, and CRA support to keep you compliant and minimize your tax burden.',
         },
         {
-          title: 'Corporate Advisory',
-          description: 'Strategic guidance for growing businesses, from cash flow to structural optimization.',
+          title: 'Self-Employment & Small Business',
+          description: 'Sole proprietor tax filing, GST filing, and business setup guidance for self-employed professionals.',
         },
         {
-          title: 'Financial Statements',
-          description: 'Preparation of professional Notice to Reader (NTR) statements for stakeholders.',
+          title: 'Corporate Services',
+          description: 'Corporate tax returns, compilation financial statements, and strategic tax planning for your corporation.',
         },
         {
-          title: 'Succession Planning',
-          description: 'Preparing business owners for their next chapter with wealth preservation.',
+          title: 'Bookkeeping & Cloud Accounting',
+          description: 'QuickBooks Online / Xero setup, monthly bookkeeping, and payroll support for growing businesses.',
         },
         {
-          title: 'Audit Support',
-          description: 'Expert support during tax audits to protect your personal and business interests.',
+          title: 'Virtual CFO Services',
+          description: 'Cash flow planning and financial reporting to help you make confident business decisions.',
         },
         {
-          title: 'Personal Wealth',
-          description: 'Tailored financial roadmaps for high-net-worth individuals focused on stability.',
+          title: 'Business Registry',
+          description: 'BC business registration, incorporation support, and CRA account setup to get your business started right.',
         },
       ]
     },
     about: {
-      tag: 'Directorship',
-      title: 'Carol Liu,',
-      titleItalic: 'Principal Architect.',
-      p1: 'With over 15 years in high-stakes public practice, Carol Liu brings a unique fusion of analytical rigor and tactical vision.',
-      p2: 'She has dedicated her career to helping small and medium-sized enterprises (SMEs) navigate the intricacies of the Canadian financial landscape with absolute confidence.',
-      years: 'Years Depth',
+      tag: 'About Us',
+      title: 'Carol Liu',
+      titleItalic: 'Accounting Ltd.',
+      p1: 'Carol Liu Accounting Ltd. is a British Columbia CPA firm providing practical accounting, tax, and advisory services for individuals, entrepreneurs, and growing businesses. We believe accounting should be clear, proactive, and technology-driven.',
+      p2: 'Our goal is to help clients stay compliant, improve financial visibility, and make confident business decisions. We proudly support individuals & families, self-employed professionals, small businesses, corporations, and growing entrepreneurs.',
+      years: 'Years of Experience',
       edu: 'Education',
       cert: 'Certification',
       linkedin: 'LinkedIn Profile'
     },
     testimonials: {
       tag: 'Testimonials',
-      title: 'Professional Proof',
-      subtitle: 'The true measure of success is the long-term growth of our partners.'
+      title: 'What Clients Say',
+      subtitle: 'Real feedback from individuals and businesses we have helped across BC.'
     },
     contact: {
-      tag: 'Concierge',
-      title: 'Connect.',
-      subtitle: 'Schedule a private consultation to discuss your specific financial landscape.',
+      tag: 'Get in Touch',
+      title: 'Contact Us',
+      subtitle: 'Book a consultation or reach out — we\'re here to help you navigate your financial journey.',
       labels: {
-        email: 'Confidential Email',
-        phone: 'Direct Line',
-        hq: 'Headquarters'
+        email: 'Email',
+        phone: 'Phone',
+        hq: 'Office'
       },
       form: {
-        identity: 'Identity',
-        namePlace: 'Your Name',
-        contact: 'Contact',
-        emailPlace: 'Work Email',
-        context: 'Context',
-        msgPlace: 'Briefly describe your requirements...',
-        submit: 'Transmit Inquiry',
-        success: 'Request Transmitted'
+        identity: 'Your Name',
+        namePlace: 'Full Name',
+        contact: 'Email Address',
+        emailPlace: 'your@email.com',
+        context: 'How Can We Help?',
+        msgPlace: 'Tell us about your accounting or tax needs...',
+        submit: 'Send Message',
+        success: 'Message Sent!'
       }
     },
     footer: {
-      desc: 'Expertly bridging the gap between complex tax regulations and practical business applications. Specialized advisory for modern entities.',
-      directory: 'Firm Directory',
+      desc: 'Carol Liu Accounting Ltd. — practical accounting, tax, and advisory services for individuals and businesses in British Columbia.',
+      directory: 'Quick Links',
       legal: 'Legal',
-      ascend: 'Ascend',
-      copy: '© 2024 Carol Liu, CPA, CGA. Legacy Excellence.'
+      ascend: 'Back to Top',
+      copy: '© 2025 Carol Liu Accounting Ltd., CPA. All rights reserved.'
     }
   },
   zh: {
@@ -102,56 +102,56 @@ export const translations = {
       about: '关于我们',
       testimonials: '客户评价',
       contact: '联系我们',
-      inquire: '立即咨询',
-      corp: '专业会计师事务所',
+      inquire: '预约咨询',
+      corp: '注册会计师',
     },
     hero: {
-      onboarding: '现正招收新客户 • 2024/25',
-      title1: '卓越财务',
-      title2: '管理，',
-      title3: '源于精准执着。',
-      subtitle: '为重视技术精湛和个性化服务的企业家提供高端税务策略和会计服务。',
-      start: '立即开始',
-      services: '服务项目',
-      checks: ['CPA 认证', '税务专家', '审计准备', '精品服务']
+      onboarding: '为BC省个人及企业提供服务',
+      title1: '专属CPA服务',
+      title2: '为您、您的家庭',
+      title3: '和您的企业而设。',
+      subtitle: '为BC省个人及企业提供会计与税务解决方案',
+      start: '预约咨询',
+      services: '联系我们',
+      checks: ['CPA认证', '扎根BC省', '税务专家', '个性化服务']
     },
     services: {
-      tag: '业务能力',
-      title: '财务精通',
-      subtitle: '全方位财富保值和业务扩展方案。',
+      tag: '专业服务',
+      title: '我们的服务',
+      subtitle: '为BC省个人及企业提供全面的会计、税务及咨询服务。',
       items: [
         {
-          title: '税务规划',
-          description: '制定高端策略以在确保完全合规的同时最大限度地减轻您的税务负担。',
+          title: '个人税务',
+          description: '个人报税、税务规划及CRA支持，帮助您保持合规并减轻税务负担。',
         },
         {
-          title: '企业咨询',
-          description: '为成长中的企业提供从现金流到结构优化的战略指导。',
+          title: '自雇及小型企业',
+          description: '独资经营者报税、GST申报及企业设立指导，为自雇人士提供全面支持。',
         },
         {
-          title: '财务报表',
-          description: '为利益相关者准备专业的Notice to Reader (NTR)财务报表。',
+          title: '企业服务',
+          description: '企业所得税申报、编制财务报表及战略税务规划。',
         },
         {
-          title: '传承规划',
-          description: '通过财富保值协助企业主为下一阶段做准备。',
+          title: '账务及云端会计',
+          description: 'QuickBooks Online / Xero设置、月度账务处理及薪资支持。',
         },
         {
-          title: '审计支持',
-          description: '在税务审计期间提供专家支持，保护您的个人和商业利益。',
+          title: '虚拟CFO服务',
+          description: '现金流规划及财务报告，帮助您做出自信的商业决策。',
         },
         {
-          title: '个人财富',
-          description: '为注重稳定性的高净值人士量身定制的财务路线图。',
+          title: '商业注册',
+          description: 'BC省商业注册、公司注册支持及CRA账户设置，助您顺利起步。',
         },
       ]
     },
     about: {
-      tag: '负责人',
-      title: 'Carol Liu,',
-      titleItalic: '首席架构师。',
-      p1: '拥有超过15年的高端公共执业经验，Carol Liu 将严密的分析与战术愿景完美结合。',
-      p2: '她致力于协助中小企业（SME）充满信心地应对加拿大复杂的财务环境。',
+      tag: '关于我们',
+      title: 'Carol Liu',
+      titleItalic: '会计有限公司',
+      p1: 'Carol Liu Accounting Ltd. 是一家总部位于不列颠哥伦比亚省的CPA会计师事务所，为个人、创业者及成长中的企业提供实用的会计、税务和顾问服务。我们相信会计应该清晰、积极主动且以科技为驱动。',
+      p2: '我们的目标是帮助客户保持合规、提高财务透明度，并做出自信的商业决策。我们骄傲地服务于个人及家庭、自雇专业人士、小型企业、公司及成长中的创业者。',
       years: '从业年限',
       edu: '教育背景',
       cert: '专业认证',
@@ -159,35 +159,35 @@ export const translations = {
     },
     testimonials: {
       tag: '客户评价',
-      title: '专业证明',
-      subtitle: '成功的真正衡量标准是合作伙伴的长期增长。'
+      title: '客户心声',
+      subtitle: '来自我们在BC省服务的个人和企业的真实反馈。'
     },
     contact: {
-      tag: '礼宾服务',
-      title: '联系。',
-      subtitle: '安排私人咨询，讨论您具体的财务状况。',
+      tag: '联系我们',
+      title: '与我们联系',
+      subtitle: '预约咨询或随时联系我们——我们在这里帮助您解决财务问题。',
       labels: {
-        email: '保密邮件',
-        phone: '直线电话',
-        hq: '总部地点'
+        email: '电子邮件',
+        phone: '电话',
+        hq: '办公室'
       },
       form: {
-        identity: '身份',
-        namePlace: '您的姓名',
-        contact: '联系方式',
-        emailPlace: '工作邮箱',
-        context: '背景描述',
-        msgPlace: '简要描述您的需求...',
-        submit: '提交咨询',
-        success: '咨询已发送'
+        identity: '您的姓名',
+        namePlace: '全名',
+        contact: '电子邮件地址',
+        emailPlace: 'your@email.com',
+        context: '我们能为您提供什么帮助？',
+        msgPlace: '请告诉我们您的会计或税务需求...',
+        submit: '发送消息',
+        success: '消息已发送！'
       }
     },
     footer: {
-      desc: '专业地弥合复杂税务法规与实际商业应用之间的差距。为现代企业提供专业咨询。',
-      directory: '事务所目录',
+      desc: 'Carol Liu Accounting Ltd. — 为不列颠哥伦比亚省的个人及企业提供实用的会计、税务和顾问服务。',
+      directory: '快速链接',
       legal: '法律条款',
-      ascend: '回到顶部',
-      copy: '© 2024 Carol Liu, CPA, CGA. 卓越传承。'
+      ascend: '返回顶部',
+      copy: '© 2025 Carol Liu Accounting Ltd., CPA. 保留所有权利。'
     }
   }
 };

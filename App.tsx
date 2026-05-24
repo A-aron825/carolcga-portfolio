@@ -40,7 +40,7 @@ const App: React.FC = () => {
           <About lang={lang} t={t.about} />
         </section>
 
-        <section id="testimonials" className="py-24 bg-indigo-50/30">
+        <section id="testimonials" className="py-24 bg-[#F5F7FA]/60">
           <Testimonials lang={lang} t={t.testimonials} />
         </section>
         
